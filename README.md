@@ -30,7 +30,7 @@ Install via Arduino IDE → Library Manager → Search for "DHT sensor library" 
  
 1.	Clone this repository: 
  
-git clone https://github.com/yourusername/Max-Steel.git 
+git clone https://github.com/sparthur1012/arduinoprojects
  
 2.	Open the project in Arduino IDE. 
 3.	Install the required DHT sensor library if not already installed. 
